@@ -4884,28 +4884,28 @@
 		"oAP": "/project-details-1-fullscreen-center.html",
 		"oF": 0
 		},
-	"/project-details-10-halfscreen-left-right.html": {
+	"/marketing.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/project-details-10-halfscreen-left-right.html",
+		"oAP": "/marketing.html",
 		"oF": 0
 		},
-	"/project-details-11-fullscreen-center.html": {
+	"/data-security.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/project-details-11-fullscreen-center.html",
+		"oAP": "/data-security.html",
 		"oF": 0
 		},
-	"/project-details-12-bottom-container-center.html": {
+	"/blockchain-cryptocurrency.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/project-details-12-bottom-container-center.html",
+		"oAP": "/blockchain-cryptocurrency.html",
 		"oF": 0
 		},
 	"/project-details-13-bottom-container-center.html": {
@@ -4932,12 +4932,12 @@
 		"oAP": "/project-details-3-halfscreen-left-right.html",
 		"oF": 0
 		},
-	"/project-details-4-halfscreen-left-left.html": {
+	"/web-seo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/project-details-4-halfscreen-left-left.html",
+		"oAP": "/web-seo.html",
 		"oF": 0
 		},
 	"/project-details-5-bottom-container-center.html": {
@@ -4956,20 +4956,20 @@
 		"oAP": "/project-details-6-bottom-fullwidth.html",
 		"oF": 0
 		},
-	"/project-details-7-fullscreen-left.html": {
+	"/cinematic-media.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/project-details-7-fullscreen-left.html",
+		"oAP": "/cinematic-media.html",
 		"oF": 0
 		},
-	"/project-details-8-halfscreen-right-left.html": {
+	"/branding-design.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/project-details-8-halfscreen-right-left.html",
+		"oAP": "/branding-design.html",
 		"oF": 0
 		},
 	"/project-details-9-fullscreen-center.html": {
