@@ -56,4 +56,4 @@ RewriteRule .* index.php?/$0 [PT,L]
 Header always set X-Frame-Options "SAMEORIGIN"
 Header always set Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 Header always set X-Content-Type-Options: nosniff
-Header always set Content-Security-Policy: default-src 'self'; img-src *; media-src *; script-src *
+Header always set Content-Security-Policy: img-src *; media-src *; script-src *
