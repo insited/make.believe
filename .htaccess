@@ -50,4 +50,9 @@ RewriteRule .* index.php?/$0 [PT,L]
         Header append Vary User-Agent env=!dont-vary
     </IfModule>
 </IfModule>
-Header append X-FRAME-OPTIONS "SAMEORIGIN"
+<IfModule mod_headers.c> 
+  Header set X-XSS-Protection "1; mode=block" 
+</IfModule>
+Header always set X-Frame-Options "SAMEORIGIN"
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
