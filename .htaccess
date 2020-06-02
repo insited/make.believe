@@ -54,5 +54,5 @@ RewriteRule .* index.php?/$0 [PT,L]
   Header set X-XSS-Protection "1; mode=block" 
 </IfModule>
 Header always set X-Frame-Options "SAMEORIGIN"
-Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-X-Content-Type-Options: nosniff
+Header always set Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Header always set X-Content-Type-Options: nosniff
