@@ -4767,7 +4767,7 @@ class FormAJAX extends Form {
     }).fail(() => {
       self._createModal({
         template: self._getModalTemplate({
-          icon: './img/general/icon-error.svg',
+          icon: './img/general/icon-success.svg',
           message: self.messages.error
         })
       });
